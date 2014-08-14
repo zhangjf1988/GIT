@@ -1,1 +1,1 @@
-git is free nice friendly software.
+git is free nice software.
